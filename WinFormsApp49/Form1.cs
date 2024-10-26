@@ -24,7 +24,7 @@ namespace WinFormsApp49
                 else (sender as TicTacToeButton).ToNull();
                 clicked++;
                 check++;
-
+                done++;
             }
         }
     }

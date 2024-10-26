@@ -2,7 +2,7 @@ namespace WinFormsApp49
 {
     public partial class Form1 : Form
     {
-        private int clicked = 0, check = 0;
+        private int clicked = 0, check = 0, done = 0;
         public Form1()
         {
             InitializeComponent();
